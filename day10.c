@@ -30,4 +30,4 @@ int main(void) {
     int matrix2[3][4] = { {1,2,3,4}, {5,1,2,3}, {9,5,1,2} };
     printf("Is Toeplitz: %s\n", is_toeplitz(matrix2, 3, 4) ? "true" : "false");
     return 0;
-}
+}// updated

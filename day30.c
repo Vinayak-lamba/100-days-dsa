@@ -37,4 +37,4 @@ int main(void) {
     printf("Stack after pop: ");
     display();
     return 0;
-}
+}// updated

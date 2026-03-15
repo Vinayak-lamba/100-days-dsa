@@ -52,4 +52,4 @@ int main(void) {
     printf("Three sum combinations:\n");
     three_sum(nums, 6);
     return 0;
-}
+}// updated
