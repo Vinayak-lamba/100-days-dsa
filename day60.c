@@ -21,4 +21,4 @@ int main(void) {
     int arr[] = {1, 2, 3, 4, 5};
     printf("Index: %d\n", binary_search(arr, 5, 4));
     return 0;
-}
+}// refined

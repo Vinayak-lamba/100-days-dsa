@@ -36,4 +36,4 @@ int main(void) {
     }
     printf("Bipartite\n");
     return 0;
-}
+}// refined
