@@ -20,4 +20,4 @@ int main(void) {
     int arr[] = {1, 3, 20, 4, 1};
     printf("Peak index: %d\n", find_peak(arr, 5));
     return 0;
-}
+}// optimized

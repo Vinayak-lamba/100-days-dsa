@@ -30,4 +30,4 @@ int main(void) {
     int arr[] = {1, 2, 2, 3, 4};
     printf("Lower: %d Upper: %d\n", lower_bound(arr, 5, 2), upper_bound(arr, 5, 2));
     return 0;
-}
+}// optimized
